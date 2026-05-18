@@ -1,0 +1,2 @@
+## Pages
+- [Y.A.M World Wide Venter - Inventory Management System](/): Complete inventory management system for Y.A.M World Wide Venter with admin controls, staff management, and customer records.
