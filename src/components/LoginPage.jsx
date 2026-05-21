@@ -16,12 +16,12 @@ const LoginPage = ({ onLogin }) => {
     if (!existingCreds) {
       const defaultCreds = {
         admin: {
-          username: 'yusuf',
-          password: 'YAM@1234'
+          username: 'admin',
+          password: 'Admin123'
         },
         staff: {
-          username: 'Staff-yam',
-          password: '1234567'
+          username: 'Staff',
+          password: 'Staff123'
         }
       };
       localStorage.setItem('yamCredentials', JSON.stringify(defaultCreds));
